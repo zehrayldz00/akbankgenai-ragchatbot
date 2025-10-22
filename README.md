@@ -201,7 +201,8 @@ Hosting	--->  Gradio share=True (public temporary link)
 Dataset ---> 	zehrayldz00/istanbulguide on Hugging Face
 
 
-![Chat Demo](assets/demo.png)
+![Chat Demo](assets/demo.jpg)
+
 
 
 
