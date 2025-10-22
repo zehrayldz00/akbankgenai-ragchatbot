@@ -69,6 +69,7 @@ venv\Scripts\activate      # Windows
 ### 3️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 
 🔐 Environment Variables
@@ -202,6 +203,7 @@ Dataset ---> 	zehrayldz00/istanbulguide on Hugging Face
 
 
 ![Chat Demo](assets/demo.jpg)
+
 
 
 
